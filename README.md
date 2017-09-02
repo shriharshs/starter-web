@@ -22,3 +22,7 @@ Adding the testing text
 ##Pricing
 
 Adding the pricing text
+
+###Copyright
+
+Sample copyright text!

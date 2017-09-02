@@ -18,6 +18,9 @@ Adding the deployment text
 
 Adding the testing text
 
+##How to contribute
+
+Simple fork the repo
 
 ##Pricing
 
